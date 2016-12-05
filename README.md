@@ -3,6 +3,22 @@
 
 By [v-braun - www.dev-things.net](http://www.dev-things.net).
 
+## Installation
+
+### PowerShell
+
+```
+Install-Package VBR.UnixTime
+```
+
+### project.json
+
+```json
+  "dependencies": {
+    "VBR.UnixTime": "*"
+  }
+```
+
 ## Usage
 See the *VBR.UnixTime.Tests* Project.
 
