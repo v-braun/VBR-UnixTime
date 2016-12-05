@@ -7,7 +7,7 @@ By [v-braun - www.dev-things.net](http://www.dev-things.net).
 
 ### PowerShell
 
-```
+```PowerShell
 Install-Package VBR.UnixTime
 ```
 
