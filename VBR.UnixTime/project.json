@@ -1,0 +1,32 @@
+{
+  "title": "VBR.UnixTime",
+  "description": "Converts UnixEpoch Date information to DateTime",
+  "authors": [
+    "v-braun"
+  ],
+  "licenseUrl": "https://github.com/v-braun/VBR-UnixTime/blob/master/LICENSE",
+  "projectUrl": "https://github.com/v-braun/VBR-UnixTime",
+  "summary": "see here how to use: https://github.com/v-braun/VBR-UnixTime",
+  "tags": [
+    "UNIX-Epoch",
+    "DateTime",
+    "Unix-Time"
+  ],
+  "tools": {
+    
+  },
+  "version": "1.0.0-*",
+  "copyright": "v-braun (v-braun@live.de)",
+  "dependencies": {
+    "NETStandard.Library": "1.6.0"
+  },
+  "frameworks": {
+    "netstandard1.6": {
+      "imports": "dnxcore50"
+    }
+  },
+
+  "tooling": {
+    "defaultNamespace": "VBR"
+  }
+}

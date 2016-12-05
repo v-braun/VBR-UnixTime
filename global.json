@@ -1,0 +1,6 @@
+{
+  "projects": [ 
+      "VBR.UnixTime", 
+      "VBR.UnixTime.Tests"
+    ]
+}
