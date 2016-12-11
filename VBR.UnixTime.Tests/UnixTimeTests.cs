@@ -20,7 +20,7 @@ namespace VBR{
             var s = 64;
 
             var actual = UnixTime.FromElapsedSecods(s);            
-        
+            Assert.True(false);
             Assert.Equal(string.Format(_unixEpochFormat, 1, 0, 1, 4, 0), actual.ToString(_assertFormat));
         }
 
