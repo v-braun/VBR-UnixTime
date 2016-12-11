@@ -5,7 +5,7 @@ namespace VBR{
     /// Converts UnixEpoch Date information to DateTime
     /// </summary>
     public static class UnixTime{
-        private readonly static DateTime UNIX_EPOCH = new DateTime(1970, 1, 1);
+        private readonly static DateTime UNIX_EPOCH = new DateTime(1970, 1, 1, 0, 0, 0, DateTimeKind.Utc);
         
         /// <summary>
         /// Base UNIX Epoch DateTime
