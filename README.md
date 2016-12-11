@@ -1,7 +1,11 @@
-# VBR.UnixTime
+# VBR.UnixTime 
 > Converts UnixEpoch Date information to DateTime
 
-By [v-braun - www.dev-things.net](http://www.dev-things.net).
+By [v-braun - www.dev-things.net](http://www.dev-things.net). 
+
+## Shields
+[![Build status](https://ci.appveyor.com/api/projects/status/jo1gnrngs9nn30v9?svg=true)](https://ci.appveyor.com/project/v-braun/vbr-unixtime) 
+[![NuGet](https://img.shields.io/nuget/v/VBR.UnixTime.svg)](https://www.nuget.org/packages/VBR.UnixTime/)
 
 ## Installation
 
