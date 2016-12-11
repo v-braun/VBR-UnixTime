@@ -3,8 +3,8 @@
 
 By [v-braun - www.dev-things.net](http://www.dev-things.net). 
 
-[![Build status](https://ci.appveyor.com/api/projects/status/jo1gnrngs9nn30v9?svg=true)](https://ci.appveyor.com/project/v-braun/vbr-unixtime) 
-[![NuGet](https://img.shields.io/nuget/v/VBR.UnixTime.svg)](https://www.nuget.org/packages/VBR.UnixTime/)
+[![AppVeyor](https://img.shields.io/appveyor/ci/v-braun/vbr-unixtime.svg?style=flat-square)](https://ci.appveyor.com/project/v-braun/vbr-unixtime)
+[![NuGet](https://img.shields.io/nuget/v/VBR.UnixTime.svg?style=flat-square)](https://www.nuget.org/packages/VBR.UnixTime/)
 
 ## Installation
 
